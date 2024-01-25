@@ -89,3 +89,8 @@ Dataset from Kaggle with 17 columns and 1000 rows, covering details such as invo
 
 # Conclusion: 
 This analysis provides vital insights into Walmart's sales dynamics, guiding strategic decisions for product enhancement, sales strategy optimization, and improved customer engage
+
+## SQL CODE
+
+[CODE](https://github.com/tarunbechum/Walmart-Sales-Data-Analysis-using-Mysql/blob/main/Walmart-Sales-Data-Analysis-using-Mysql.sql)
+
