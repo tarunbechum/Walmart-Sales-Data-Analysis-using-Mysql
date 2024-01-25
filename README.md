@@ -5,7 +5,7 @@ This project analyzes Walmart sales data from Kaggle, covering three branches in
 
 
 
-## SQL CODE and KAGGLE DATA BASE 
+## SQL CODE and KAGGLE DATABASE 
 
 [ SQL CODE](https://github.com/tarunbechum/Walmart-Sales-Data-Analysis-using-Mysql/blob/main/Walmart-Sales-Data-Analysis-using-Mysql.sql)
 
