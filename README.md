@@ -42,12 +42,17 @@ Utilize provided formulas to calculate COGS, VAT, total revenue, gross profit, a
 
 
 Approach:
+
 1.	Data Wrangling:
+
 	Inspect and handle NULL values.
 	Build a robust database structure.
-2.	Feature Engineering:
-	Introduce new columns for deeper insights.
-3.	Exploratory Data Analysis (EDA):
+3.	Feature Engineering:
+
+	Introduce new columns for deeper insights
+
+4.	Exploratory Data Analysis (EDA):
+   
 	Conducted to address project goals.
 
 Business Questions:
