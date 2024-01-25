@@ -36,6 +36,12 @@ Customer Analysis:
 
 	Uncover customer segments, study purchase trends, and evaluate the profitability of different customer segments.
 
+
+
+
+
+
+
 Revenue and Profit Calculations:
 
 Utilize provided formulas to calculate COGS, VAT, total revenue, gross profit, and gross margin percentage.
