@@ -1,8 +1,15 @@
-# Walmart Sales Data Analysis using Mysql (SQL BASIC PROJECT)
+# Walmart Sales Data Analysis using Mysql 
 
 
 This project analyzes Walmart sales data from Kaggle, covering three branches in Mandalay, Yangon, and Naypyitaw. It explores product details, sales transactions, customer info, and payment methods. The goal is to identify key factors influencing sales, highlight top products and branches, and suggest strategies for optimization.
 
+
+
+## SQL CODE and KAGGLE DATA BASE 
+
+[ SQL CODE](https://github.com/tarunbechum/Walmart-Sales-Data-Analysis-using-Mysql/blob/main/Walmart-Sales-Data-Analysis-using-Mysql.sql)
+
+[DATA BASE](https://github.com/tarunbechum/Walmart-Sales-Data-Analysis-using-Mysql/blob/main/WalmartSalesData.csv.csv)
 
 
 ## PROJECT OVERVIEW:
@@ -29,7 +36,7 @@ Dataset from Kaggle with 17 columns and 1000 rows, covering details such as invo
 
 ### Sales Analysis:
 
-- Analyse sales trends, assess the effectiveness of sales strategies and propose modifications. Customer Analysis:
+- Analyse sales trends, assess the effectiveness of sales strategies, and propose modifications. Customer Analysis:
 
 -  Uncover customer segments, study purchase trends, and evaluate the profitability of different customer segments.
 
@@ -88,9 +95,4 @@ Dataset from Kaggle with 17 columns and 1000 rows, covering details such as invo
 10)Best average ratings per branch each day.
 
 # Conclusion: 
-This analysis provides vital insights into Walmart's sales dynamics, guiding strategic decisions for product enhancement, sales strategy optimization, and improved customer engage
-
-## SQL CODE
-
-[CODE](https://github.com/tarunbechum/Walmart-Sales-Data-Analysis-using-Mysql/blob/main/Walmart-Sales-Data-Analysis-using-Mysql.sql)
-
+This analysis provides vital insights into Walmart's sales dynamics, guiding strategic decisions for product enhancement, sales strategy optimization, and improved customer engagement.
