@@ -24,16 +24,20 @@ Approach Used:
 	Exploratory Data Analysis (EDA): Analyze data to answer specific questions and achieve project aims.
 
 Analysis Categories:
+
 Product Analysis:
+
 	Explore product lines, identify top-performing products, and assess sales trends.
 
 Sales Analysis:
+
 	Analyse sales trends, assess the effectiveness of sales strategies, and propose modifications.
 Customer Analysis:
 
 	Uncover customer segments, study purchase trends, and evaluate the profitability of different customer segments.
 
 Revenue and Profit Calculations:
+
 Utilize provided formulas to calculate COGS, VAT, total revenue, gross profit, and gross margin percentage.
 
 
