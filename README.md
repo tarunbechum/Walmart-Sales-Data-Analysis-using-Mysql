@@ -14,6 +14,7 @@ Data Description:
 Dataset from Kaggle with 17 columns and 1000 rows, covering details such as invoice ID, branch, city, customer type, gender, product line, unit price, quantity, VAT, total, date, time, payment method, COGS, gross income, and rating.
 
 Approach Used:
+
 	Data Wrangling: Inspect and handle missing values.
 
 	Database Creation: Build tables and insert data.
