@@ -61,7 +61,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 ### Sales Analysis:
 
-- Analyse sales trends, assess the effectiveness of sales strategies, and propose modifications. Customer Analysis:
+- Analyse sales trends, assess the effectiveness of sales strategies and propose modifications. Customer Analysis:
 
 -  Uncover customer segments, study purchase trends, and evaluate the profitability of different customer segments.
 
